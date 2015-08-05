@@ -1,4 +1,12 @@
-# tar-fs
+# unpump-tar-fs
+
+This is a fork of https://github.com/mafintosh/tar-fs
+
+Because the chrome-fs readstream.pipe() is not chainable for a reason that is still under investigation 
+https://github.com/No9/chrome-fs/issues/1 
+
+Once that issue is resolved this repo will be redundant
+
 
 filesystem bindings for [tar-stream](https://github.com/mafintosh/tar-stream).
 

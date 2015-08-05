@@ -1,5 +1,5 @@
 {
-  "name": "tar-fs",
+  "name": "unpump-tar-fs",
   "version": "1.8.1",
   "description": "filesystem bindings for tar-stream",
   "dependencies": {
@@ -24,9 +24,9 @@
     "test": "standard && tape test/index.js"
   },
   "bugs": {
-    "url": "https://github.com/mafintosh/tar-fs/issues"
+    "url": "https://github.com/no9/unpump-tar-fs/issues"
   },
-  "homepage": "https://github.com/mafintosh/tar-fs",
+  "homepage": "https://github.com/no9/unpump-tar-fs",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -35,6 +35,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/tar-fs.git"
+    "url": "https://github.com/no9/unpump-tar-fs.git"
   }
 }
